@@ -1,0 +1,18 @@
+# Universal8890
+ro.hardware=samsungexynos8890
+ro.chipname=exynos8890
+ro.arch=exynos8890
+ro.boot.bootdevice=155a0000.ufs
+ro.lcd_min_brightness=0
+ro.lcd_brightness=162
+ro.sf.lcd_density=560
+persist.sys.usb.config=mtp,adb
+
+# Encryption
+ro.sec.fle.encryption=true
+security.mdpp=None
+security.mdpp.mass=skmm
+security.mdpp.result=None
+ro.security.mdpp.ver=2.0
+ro.security.mdpp.release=8
+ro.hardware.keystore=mdfpp

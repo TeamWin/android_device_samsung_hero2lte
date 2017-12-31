@@ -1,0 +1,15 @@
+# Encryption support
+
+on init
+    chown system system /dev/ion
+    chmod 0664 /dev/ion
+
+service keystore /sbin/keystore /data/misc/keystore
+    class core
+    disabled
+    user root
+    group root keystore drmrpc system
+    seclabel u:r:recovery:s0
+
+#on property:ro.crypto.state=encrypted
+#    start keystore
