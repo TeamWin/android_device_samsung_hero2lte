@@ -33,6 +33,24 @@
       "message": "You can merge future patchsets in this project now. Would you like me to run a prod build?",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "23944e49_fc4e7b73",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-10-21T05:58:26Z",
+      "side": 1,
+      "message": "amazing thanks for perms. and also thanks for running the builds, already tested them locally and everything went fine",
+      "parentUuid": "f603a027_ce726b50",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
