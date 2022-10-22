@@ -122,6 +122,24 @@
       "parentUuid": "9cdb4fce_e4274b76",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ad3257a0_58be642b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-10-22T14:58:09Z",
+      "side": 1,
+      "message": "So you are not using hardware/samsung from minimal?",
+      "parentUuid": "8d4a387a_4e39be64",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
