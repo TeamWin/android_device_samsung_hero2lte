@@ -51,6 +51,23 @@
       "parentUuid": "f603a027_ce726b50",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8700e7df_eebdb41b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-10-22T01:09:03Z",
+      "side": 1,
+      "message": "I am receiving an error in the build https://jenkins.twrp.me/view/TWRP%20Release%20Android-9/job/hero2lte-prod/3/console",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
