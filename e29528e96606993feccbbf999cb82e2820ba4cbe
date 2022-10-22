@@ -158,6 +158,24 @@
       "parentUuid": "ad3257a0_58be642b",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "44ac71b1_a62a62c4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-10-22T15:48:14Z",
+      "side": 1,
+      "message": "We are using https://github.com/TeamWin/buildtree_manifests/blob/master/omni-9.0/samsung.xml#L4 in a local manifest.",
+      "parentUuid": "cd3fbd43_9b0bb055",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
