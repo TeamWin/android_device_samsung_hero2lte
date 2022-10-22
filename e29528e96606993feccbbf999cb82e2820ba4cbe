@@ -86,6 +86,24 @@
       "parentUuid": "8700e7df_eebdb41b",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9cdb4fce_e4274b76",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-10-22T14:27:39Z",
+      "side": 1,
+      "message": "It looks like both test builds didn\u0027t run because the 8.1 tree already existed. Just the run job ran successfully.\n\nWe have that commit it seems\nhttps://github.com/TeamWin/android_build/blob/android-9.0/core/binary.mk#L1488\nYou are using minimal twrp omni-9 correct?",
+      "parentUuid": "43509ff0_418061d4",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
