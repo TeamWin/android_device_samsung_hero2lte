@@ -176,6 +176,24 @@
       "parentUuid": "cd3fbd43_9b0bb055",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0f9102b7_bf692436",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-10-22T16:20:07Z",
+      "side": 1,
+      "message": "exactly, as i said thats branch i cloned too\nhttps://github.com/TeamWin/android_device_samsung_herolte/blob/android-9.0/omni.dependencies#L10",
+      "parentUuid": "44ac71b1_a62a62c4",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
