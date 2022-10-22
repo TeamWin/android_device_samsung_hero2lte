@@ -68,6 +68,24 @@
       "message": "I am receiving an error in the build https://jenkins.twrp.me/view/TWRP%20Release%20Android-9/job/hero2lte-prod/3/console",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "43509ff0_418061d4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-10-22T05:43:27Z",
+      "side": 1,
+      "message": "something in official build system is definitely not the same as on 9 minimal manifest builds.\nCould official be missing https://review.lineageos.org/c/LineageOS/android_build/+/222719?\n\nI synced minimal manifest for the 3rd time with hardware/samsung from same repo and branch omni uses in manifest and build went fine\n\n\nalso how did yesterdays builds even compile if this was the issue before?",
+      "parentUuid": "8700e7df_eebdb41b",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
