@@ -194,6 +194,23 @@
       "parentUuid": "44ac71b1_a62a62c4",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e1000aca_e54323eb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-10-23T11:01:23Z",
+      "side": 1,
+      "message": "created a clean vm (Ubuntu 22.04.1 LTS) instance today and synced\n\nhttps://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/tree/twrp-9.0\n\ntogether with this manifest https://pastebin.com/raw/Guks3g6d\nand recovery compiled just fine, which again leads me to believe something on official build server is either out of sync or just plain broken\n\n",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
