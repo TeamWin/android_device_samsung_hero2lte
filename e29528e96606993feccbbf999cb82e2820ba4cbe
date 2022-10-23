@@ -229,6 +229,24 @@
       "parentUuid": "e1000aca_e54323eb",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3f3379e6_f667ef95",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-10-23T20:09:27Z",
+      "side": 1,
+      "message": "https://github.com/TeamWin/android_device_samsung_herolte/blob/android-9.0/include/samsung_dtbh.h\n\nsame place it was in 8.1 tree, and as i said it compiled just fine on clean sync for me so something in jenkins build system is wrong/different than on clean sync of minimal manifest.",
+      "parentUuid": "4a42d1d7_44a8eacf",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
