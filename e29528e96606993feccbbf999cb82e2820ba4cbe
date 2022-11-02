@@ -247,6 +247,23 @@
       "parentUuid": "4a42d1d7_44a8eacf",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c39dbe88_34a65f0c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-11-02T13:23:12Z",
+      "side": 1,
+      "message": "Honestly if nobody here cares fine, lets have broken infra\nother devices switched to prebuilt dtb and kernel because of this but imo thats not a great solution at all if we can source build it, i even compiled this in github actions and it went fine which leads me to believe that wrong branch might be synced at actual server this was compiled on officially",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
