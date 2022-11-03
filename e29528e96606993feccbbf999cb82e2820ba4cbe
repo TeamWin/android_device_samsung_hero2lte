@@ -300,6 +300,23 @@
       "parentUuid": "91f0bcbc_cebcf3ae",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6a8b4408_789d0934",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-11-03T02:35:02Z",
+      "side": 1,
+      "message": "Only other place it was declared is at is hw/samsung repo",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
