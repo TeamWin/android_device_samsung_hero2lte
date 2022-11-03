@@ -282,6 +282,24 @@
       "parentUuid": "c39dbe88_34a65f0c",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d068934e_9e9274a1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-11-03T02:32:54Z",
+      "side": 1,
+      "message": "https://github.com/TeamWin/android_device_samsung_herolte/blob/android-9.0/include/samsung_dtbh.h#L23\n\nand i already said its in include here, as i said previously devices like s8 switched to prebuilt kernel and dtb because this was broken and they didnt want to bother and im starting to see why now, i even fired up github recovery build action and it compiled fine",
+      "parentUuid": "91f0bcbc_cebcf3ae",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
