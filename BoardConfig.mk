@@ -38,7 +38,7 @@ BOARD_RECOVERYIMAGE_PARTITION_SIZE := 48234496
 # 000RU = recovery kernel, 000KU = system kernel
 BOARD_MKBOOTIMG_ARGS := --kernel_offset 0x00008000 --ramdisk_offset 0x01000000 --tags_offset 0x00000100 --board SRPOI30A000RU
 TARGET_CUSTOM_DTBTOOL := dtbhtoolExynos
-TARGET_SPECIFIC_HEADER_PATH += device/samsung/herolte/include
+TARGET_SPECIFIC_HEADER_PATH += device/samsung/hero2lte/include
 
 # File systems
 BOARD_HAS_LARGE_FILESYSTEM := true
