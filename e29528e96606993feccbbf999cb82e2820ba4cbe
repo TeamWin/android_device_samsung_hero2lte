@@ -335,6 +335,23 @@
       "parentUuid": "6a8b4408_789d0934",
       "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d05cffea_52286ce4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-11-09T09:47:46Z",
+      "side": 1,
+      "message": "done, merged patch for include on hero2, hopefully hero and hero2 can be rebuilt now",
+      "revId": "e29528e96606993feccbbf999cb82e2820ba4cbe",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ],
   "submitRequirementResults": []
